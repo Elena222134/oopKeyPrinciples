@@ -1,0 +1,2 @@
+https://github.com/netology-code/javaqa-homeworks-video/blob/main/OOP_PRINCIPLES.md#задание-1-api-обязательное-к-выполнению
+https://github.com/netology-code/javaqa-homeworks-video/blob/main/OOP_PRINCIPLES.md#домашнее-задание-к-занятию-объектно-ориентированное-программирование-ключевые-принципы
